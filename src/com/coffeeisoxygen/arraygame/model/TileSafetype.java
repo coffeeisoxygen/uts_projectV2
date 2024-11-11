@@ -1,7 +1,7 @@
 package com.coffeeisoxygen.arraygame.model;
 
-public class SafeTile extends TileModel {
-    public SafeTile(int row, int col) {
+public class TileSafetype extends TileModel {
+    public TileSafetype(int row, int col) {
         super(row, col);
     }
 
